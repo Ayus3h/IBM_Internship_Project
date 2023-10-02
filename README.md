@@ -1,2 +1,2 @@
 # IBM_SkillsBuild_Internship_Project
-This repository contains my IBM SkillsBuild Internship project on the topic sentiment analysis of restaurant reviews along with the ppt
+This is my IBM SkillsBuild Internship Project to run the project save the .tsv file in your Google Drive and change the location by copying the file location of the .tsv you saved in the Drive.
